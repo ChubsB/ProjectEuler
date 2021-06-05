@@ -6,10 +6,6 @@ def sum(n, k):
     d = n // k
     return k * (d * (d+1)) // 2
 
-def calculator(n):
-    return sum(n, 3) + sum(n, 5) - sum(n, 15)
-
-
 def test(n):
      return sum(n, 3) + sum(n, 5) - sum(n, 15)
 
