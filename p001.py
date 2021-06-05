@@ -1,5 +1,5 @@
 #We need to calculate all multiples of 3 and 5 that are lesser than given number N
-#My initial attempt wasnt great so i took help from this wonderful article https://medium.com/@TheZaki/project-euler-1-multiples-of-3-and-5-c24cb64071b0
+#My initial attempt wasnt great so i took help from this wonderful article https://medium.com/@TheZaki/project-euler-1-multiples-of-3-and-5-c24cb64071b0 :
 N = 10
 
 def sum(n, k):
