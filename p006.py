@@ -1,6 +1,6 @@
-# Find the absolute difference between the sum of the squares of the first  natural numbers and the square of the sum.
+# Find the absolute difference between the sum of the squares of the first  natural numbers and the square of the sum
 
-N = 10
+N = 3
 
 def test(N):
 	SquareSum = 0
